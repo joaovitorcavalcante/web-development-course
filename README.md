@@ -57,7 +57,7 @@ O objetivo principal do curso é de capacitar o aluno para o mercado de desenvol
 
 ​	JavaScript ES5 - 15/09 das 14:00 às 17:00
 
-​	Bootstrap 4 e Jquery 3 - 22/09 das 14 às 17:00
+​	Bootstrap 4 e Jquery 3 - 22/09 das 14:00 às 17:00
 
 
 
