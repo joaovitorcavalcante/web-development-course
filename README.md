@@ -51,13 +51,13 @@ O objetivo principal do curso é de capacitar o aluno para o mercado de desenvol
 
 ## Datas
 
-​	Git e Github - 18/08 das 14:00 às 17:00
+​	Git e Github - 25/08 das 14:00 às 17:00
 
-​	HTML 5 e CSS3 - 25/08 das 14:00 às 17:00
+​	HTML 5 e CSS3 - 01/08 das 14:00 às 17:00
 
-​	JavaScript ES5 - 01/09 das 14:00 às 17:00
+​	JavaScript ES5 - 15/09 das 14:00 às 17:00
 
-​	Bootstrap 4 e Jquery 3 - 15/09 das 14 às 17:00
+​	Bootstrap 4 e Jquery 3 - 22/09 das 14 às 17:00
 
 
 
